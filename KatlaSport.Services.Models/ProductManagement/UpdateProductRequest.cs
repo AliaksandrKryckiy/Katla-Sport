@@ -1,4 +1,4 @@
-﻿using FluentValidation.Attributes;
+﻿using FluentValidation.Attributes; // .Attributes;
 
 namespace KatlaSport.Services.ProductManagement
 {
